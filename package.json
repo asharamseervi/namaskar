@@ -1,0 +1,23 @@
+{
+  "name": "namaskar",
+  "version": "1.0.0",
+  "description": "Greeting package, test module. Hence, kindly ignore !!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asharamseervi/namaskar.git"
+  },
+  "keywords": [
+    "greetings",
+    "welcome"
+  ],
+  "author": "Asharam Seervi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asharamseervi/namaskar/issues"
+  },
+  "homepage": "https://www.aaimaa.in/?utm_source=npm"
+}
